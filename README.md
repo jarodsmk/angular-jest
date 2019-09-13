@@ -2,6 +2,17 @@
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 8.3.4.
 
+Converted to Jest (instead of Karma) using the following guides:
+
+
+- For general project scaffolding:
+https://blog.angularindepth.com/angular-cli-ng-test-with-jest-in-3-minutes-v2-1060ddd7908d
+
+- For additional info on the config:
+https://github.com/just-jeb/angular-builders/tree/master/packages/jest#builder-options
+
+Works with using `ng-test`
+
 ## Development server
 
 Run `ng serve` for a dev server. Navigate to `http://localhost:4200/`. The app will automatically reload if you change any of the source files.
